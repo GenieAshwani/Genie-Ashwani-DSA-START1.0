@@ -32,7 +32,7 @@ class StackExp {
 
 public class MyStack {
     public static void main(String[] args) {
-        StackExp stackExp=new StackExp();
-        stackExp.m1();
+        /*StackExp1 stackExp=new StackExp1();
+        stackExp.m1();*/
     }
 }
